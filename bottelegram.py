@@ -30,7 +30,7 @@ percentual = int(total_separado / soma_programacao * 100)
 #================================= // #######################################################################################
 
 #estrutura do bot
-CHAVE_API = "5985518994:AAHXrypIqgPPMK1DSb2LSRBWcG48nrspqyc"
+CHAVE_API = 
 
 
 bot = telebot.TeleBot(CHAVE_API)
